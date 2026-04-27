@@ -1,0 +1,11 @@
+# Byte-compiled
+*.pyc
+__pycache__/
+
+# Build
+imgpipeline
+imgpipeline.exe
+
+# OS
+.DS_Store
+Thumbs.db
